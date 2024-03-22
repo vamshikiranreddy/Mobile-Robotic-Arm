@@ -1,1 +1,2 @@
 # Mobile-Robotic-Arm
+hey there ,we have Developed and implemented Arduino-based code for a robotic arm project, enabling manual control via serial input and dynamic response to environmental cues through analog sensors. The code effectively manages servo motors to control the movement of the robotic arm's multiple degrees of freedom, providing a versatile and responsive platform for experimentation and automation tasks.
